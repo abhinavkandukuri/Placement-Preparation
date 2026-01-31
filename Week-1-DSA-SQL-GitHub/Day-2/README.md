@@ -1,13 +1,5 @@
 
 
-# 📘 Interview Preparation Notes
-
-## Strings (Reverse & Palindrome) & SQL (ORDER BY, LIMIT, AND, OR, LIKE)
-
-This repository contains **Python string interview questions** and **SQL interview questions** commonly asked in **technical interviews**, especially for **freshers and campus placements**.
-
----
-
 ## 🔹 String Interview Questions (Reverse & Palindrome) — Python
 
 ### 🔸 Basic Level
