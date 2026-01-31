@@ -1,5 +1,5 @@
 📅 WEEK 1 – DSA + SQL + GitHub
-
+-------------
 Day 1
 
 Arrays: max, min, frequency
@@ -38,8 +38,9 @@ Revise DSA + SQL
 
 Clean GitHub repositories
 
+--------
 🟠 WEEK 2 – React Basics + Login Page
-
+------
 Day 7
 
 React setup, JSX, components
@@ -70,8 +71,10 @@ Push React Login project
 
 Practice explanation
 
+----
 🟡 WEEK 3 – Backend + Full Stack (Non-MERN)
 
+--------------
 Day 14
 
 Node.js basics
@@ -102,8 +105,10 @@ Revise full flow
 
 Push project
 
+----
 🟢 WEEK 4 – MERN Stack Mini Project
 
+-----------------
 Day 21
 
 MongoDB + Mongoose
@@ -134,8 +139,10 @@ Push MERN project
 
 Prepare explanation
 
+---
 🔵 WEEK 5 – Aptitude + Communication
 
+------------------
 Day 28
 
 Self-introduction
@@ -174,8 +181,10 @@ Day 34
 
 Revise weak areas
 
+-----
 🟣 WEEK 6 – Revision & Interview Mode
 
+--------------
 Day 35
 
 Revise MERN flow
