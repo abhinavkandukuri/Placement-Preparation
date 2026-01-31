@@ -1,5 +1,6 @@
 # 🔴 DAY 1 – ARRAYS (PYTHON)
 
+
 ---
 
 ## 1️⃣ Find **Maximum & Minimum**
