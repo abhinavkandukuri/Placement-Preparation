@@ -14,7 +14,7 @@ class Main {
         System.out.println(stack);
 
         LinkedList<Integer> linkedList = new LinkedList<>();
-
+  
         linkedList.add(10);
         linkedList.add(20);
         linkedList.add(30);
