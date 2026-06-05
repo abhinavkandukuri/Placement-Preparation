@@ -288,7 +288,7 @@
 
 import java.util.*;
 
-public class Day4stack {
+public class Day4Stack {
 
     public static int[] FINDGE(int[] arr) {
         int n = arr.length;
